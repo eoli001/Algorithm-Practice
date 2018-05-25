@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a9fc88ed7b387a9f44dd504f6699cee4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d6f52bbf64fc431c91fdce33c00e98f3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e92a6144b33a77abff301b41bcfe8275\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\36d02e186cc96db61e54e7cbf2036f16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\630179819a73fe6c2e765aff0c19eb07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\56a6267b0e943be7f0c5c92e956f9446\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0b612863c79d4250af7b656b7053c559\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8d74e46fc3e2d2a47ae9f06ee7aebe9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b852c18246c680df395a99a24eb0c17e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\30f71851d9f1ec2eda48396dae7080e8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c538783a3c7cb9dfea6c3e25e1f4350f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e1ad88b9818dcb65843ca9cb966559b4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87cbc89959206278ba68907afb204f89\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d6f52bbf64fc431c91fdce33c00e98f3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d6f52bbf64fc431c91fdce33c00e98f3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e92a6144b33a77abff301b41bcfe8275\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e92a6144b33a77abff301b41bcfe8275\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.eoli.WaveMobileChallenge.MainActivity
+ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:15:19-83
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a9fc88ed7b387a9f44dd504f6699cee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a9fc88ed7b387a9f44dd504f6699cee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d6f52bbf64fc431c91fdce33c00e98f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d6f52bbf64fc431c91fdce33c00e98f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e92a6144b33a77abff301b41bcfe8275\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e92a6144b33a77abff301b41bcfe8275\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\36d02e186cc96db61e54e7cbf2036f16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\36d02e186cc96db61e54e7cbf2036f16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\630179819a73fe6c2e765aff0c19eb07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\630179819a73fe6c2e765aff0c19eb07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\56a6267b0e943be7f0c5c92e956f9446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\56a6267b0e943be7f0c5c92e956f9446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0b612863c79d4250af7b656b7053c559\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0b612863c79d4250af7b656b7053c559\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8d74e46fc3e2d2a47ae9f06ee7aebe9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8d74e46fc3e2d2a47ae9f06ee7aebe9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b852c18246c680df395a99a24eb0c17e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b852c18246c680df395a99a24eb0c17e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\30f71851d9f1ec2eda48396dae7080e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\30f71851d9f1ec2eda48396dae7080e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c538783a3c7cb9dfea6c3e25e1f4350f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c538783a3c7cb9dfea6c3e25e1f4350f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e1ad88b9818dcb65843ca9cb966559b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e1ad88b9818dcb65843ca9cb966559b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87cbc89959206278ba68907afb204f89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\eoli\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87cbc89959206278ba68907afb204f89\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eoli\AndroidStudioProjects\WaveMobileChallenge\app\src\main\AndroidManifest.xml
