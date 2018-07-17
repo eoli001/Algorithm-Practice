@@ -12,30 +12,22 @@ string outputCompressString(string s){
   if(s.length() == 0){
     return "";
   }
-  cout<<"s.lenth" << s.length();
   for(int i = 0; i <= s.length(); i++){
-    //cout << "s[i] " << s[i] << endl;
-    //cout << "curchar " << curchar << endl;
-    cout<<count<<endl;
     if(s[i] == curchar){
       count++;
     }
     else{
       
       if(count > 1){
-        cout << "s[i]a " << s[i] << endl;
         savedString = savedString + curchar + to_string(count);
       }
         
       else{
-        cout << "s[i]b " << s[i] << endl;
         savedString = savedString + curchar;
-        cout << "here "<< curchar<<endl; 
         
       }
         count = 1;
         curchar = s[i];
-        cout<< s[i] <<endl;
       
     }
     
@@ -45,7 +37,7 @@ string outputCompressString(string s){
 }
 
 int main() {
-  string s = "aabcc";
+  string s = "aabc";
   s = outputCompressString(s);
   cout<<s <<endl;
   return 0;
