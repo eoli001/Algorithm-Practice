@@ -13,21 +13,26 @@ string outputCompressString(string s){
     return "";
   }
   for(int i = 0; i <= s.length(); i++){
+
+    //if it is equal to the previous char
     if(s[i] == curchar){
       count++;
     }
     else{
-      
+      //if the count is more than one, attach with the char and count to previous saved string
       if(count > 1){
         savedString = savedString + curchar + to_string(count);
       }
-        
+      
+      //if it is equal to 1, output the char only  
       else{
         savedString = savedString + curchar;
         
       }
-        count = 1;
-        curchar = s[i];
+
+      //update the variables
+      count = 1;
+      curchar = s[i];
       
     }
     

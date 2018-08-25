@@ -1,0 +1,208 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'create-react-app' ]
+2 info using npm@2.10.1
+3 info using node@v0.12.4
+4 verbose install initial load of /usr/local/lib/package.json
+5 verbose readDependencies loading dependencies from /usr/local/lib/package.json
+6 silly cache add args [ 'create-react-app', null ]
+7 verbose cache add spec create-react-app
+8 silly cache add parsed spec { raw: 'create-react-app',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'create-react-app',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: '*',
+8 silly cache add   type: 'range' }
+9 silly addNamed create-react-app@*
+10 verbose addNamed "*" is a valid semver range for create-react-app
+11 silly addNameRange { name: 'create-react-app', range: '*', hasData: false }
+12 silly mapToRegistry name create-react-app
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/create-react-app
+16 verbose addNameRange registry:https://registry.npmjs.org/create-react-app not in flight; fetching
+17 verbose request uri https://registry.npmjs.org/create-react-app
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 5:42:15 PM
+20 verbose request id fa471a021d6f36f2
+21 http request GET https://registry.npmjs.org/create-react-app
+22 http 200 https://registry.npmjs.org/create-react-app
+23 silly get cb [ 200,
+23 silly get   { date: 'Mon, 13 Aug 2018 21:42:15 GMT',
+23 silly get     'content-type': 'application/json; charset=UTF-8',
+23 silly get     'transfer-encoding': 'chunked',
+23 silly get     connection: 'keep-alive',
+23 silly get     'set-cookie': [ '__cfduid=da49a37258697a071da48969e478e91ff1534196535; expires=Tue, 13-Aug-19 21:42:15 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+23 silly get     'cache-control': 'max-age=300',
+23 silly get     'cf-cache-status': 'HIT',
+23 silly get     'cf-ray': '449e59bc88e83f83-YUL',
+23 silly get     etag: 'W/"466b6cce81694cee956c40aa0e7e7939"',
+23 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+23 silly get     'last-modified': 'Thu, 02 Aug 2018 09:53:28 GMT',
+23 silly get     vary: 'accept-encoding, accept',
+23 silly get     server: 'cloudflare',
+23 silly get     'content-encoding': 'gzip' } ]
+24 verbose get saving create-react-app to /Users/Eoli/.npm/registry.npmjs.org/create-react-app/.cache.json
+25 silly addNameRange number 2 { name: 'create-react-app', range: '*', hasData: true }
+26 silly addNameRange versions [ 'create-react-app',
+26 silly addNameRange   [ '0.0.0',
+26 silly addNameRange     '0.1.0',
+26 silly addNameRange     '0.2.0-alpha.1',
+26 silly addNameRange     '0.2.0',
+26 silly addNameRange     '0.3.0',
+26 silly addNameRange     '0.4.2',
+26 silly addNameRange     '0.4.2-alpha.8f28c56e',
+26 silly addNameRange     '0.5.0',
+26 silly addNameRange     '0.6.0',
+26 silly addNameRange     '0.6.0-alpha.e756d73a',
+26 silly addNameRange     '0.6.0-alpha.9c45b252',
+26 silly addNameRange     '0.7.0',
+26 silly addNameRange     '1.0.0',
+26 silly addNameRange     '1.0.1',
+26 silly addNameRange     '1.0.2',
+26 silly addNameRange     '1.0.3',
+26 silly addNameRange     '1.0.4',
+26 silly addNameRange     '1.1.0',
+26 silly addNameRange     '1.2.0',
+26 silly addNameRange     '1.2.1',
+26 silly addNameRange     '1.3.0',
+26 silly addNameRange     '1.3.0-alpha.58689133',
+26 silly addNameRange     '1.3.0-alpha.dadf93b2',
+26 silly addNameRange     '1.3.0-alpha.134d2297',
+26 silly addNameRange     '1.3.0-alpha.e280254d',
+26 silly addNameRange     '1.3.0-alpha.c82c4f05',
+26 silly addNameRange     '1.3.0-alpha.0d0536f9',
+26 silly addNameRange     '1.3.0-alpha.02968ecd',
+26 silly addNameRange     '1.3.0-alpha.55afd862',
+26 silly addNameRange     '1.3.1',
+26 silly addNameRange     '1.3.1-alpha.60ae2b6d',
+26 silly addNameRange     '1.3.2',
+26 silly addNameRange     '1.3.3',
+26 silly addNameRange     '1.4.0',
+26 silly addNameRange     '1.4.1',
+26 silly addNameRange     '1.4.2',
+26 silly addNameRange     '1.4.3',
+26 silly addNameRange     '1.5.0',
+26 silly addNameRange     '2.0.0-next.096703ab',
+26 silly addNameRange     '2.0.0-next.9754a231',
+26 silly addNameRange     '1.5.1',
+26 silly addNameRange     '2.0.0-next.03604a46',
+26 silly addNameRange     '2.0.0-next.47d2d941',
+26 silly addNameRange     '1.5.2',
+26 silly addNameRange     '2.0.0-next.b2fd8db8',
+26 silly addNameRange     '2.0.0-next.66cc7a90',
+26 silly addNameRange     '2.0.0-next.3e165448' ] ]
+27 silly addNamed create-react-app@1.5.2
+28 verbose addNamed "1.5.2" is a plain semver version for create-react-app
+29 silly mapToRegistry name create-react-app
+30 silly mapToRegistry using default registry
+31 silly mapToRegistry registry https://registry.npmjs.org/
+32 silly mapToRegistry uri https://registry.npmjs.org/create-react-app
+33 verbose addRemoteTarball https://registry.npmjs.org/create-react-app/-/create-react-app-1.5.2.tgz not in flight; adding
+34 verbose addRemoteTarball [ 'https://registry.npmjs.org/create-react-app/-/create-react-app-1.5.2.tgz',
+34 verbose addRemoteTarball   '2639e5d2f88e8777977beb6a8d9cbc04cf70091e' ]
+35 info retry fetch attempt 1 at 5:42:15 PM
+36 info attempt registry request try #1 at 5:42:15 PM
+37 http fetch GET https://registry.npmjs.org/create-react-app/-/create-react-app-1.5.2.tgz
+38 http fetch 200 https://registry.npmjs.org/create-react-app/-/create-react-app-1.5.2.tgz
+39 silly fetchAndShaCheck shasum 2639e5d2f88e8777977beb6a8d9cbc04cf70091e
+40 verbose addTmpTarball /var/folders/cc/_5z0j_v17g7dqk6kqybvthrw0000gn/T/npm-48343-8298a662/registry.npmjs.org/create-react-app/-/create-react-app-1.5.2.tgz not in flight; adding
+41 verbose addTmpTarball already have metadata; skipping unpack for create-react-app@1.5.2
+42 silly cache afterAdd create-react-app@1.5.2
+43 verbose afterAdd /Users/Eoli/.npm/create-react-app/1.5.2/package/package.json not in flight; writing
+44 verbose afterAdd /Users/Eoli/.npm/create-react-app/1.5.2/package/package.json written
+45 silly install resolved [ { name: 'create-react-app',
+45 silly install resolved     version: '1.5.2',
+45 silly install resolved     keywords: [ 'react' ],
+45 silly install resolved     description: 'Create React apps with no build configuration.',
+45 silly install resolved     repository:
+45 silly install resolved      { type: 'git',
+45 silly install resolved        url: 'git+https://github.com/facebookincubator/create-react-app.git' },
+45 silly install resolved     license: 'MIT',
+45 silly install resolved     engines: { node: '>=4' },
+45 silly install resolved     bugs: { url: 'https://github.com/facebookincubator/create-react-app/issues' },
+45 silly install resolved     files: [ 'index.js', 'createReactApp.js' ],
+45 silly install resolved     bin: { 'create-react-app': './index.js' },
+45 silly install resolved     dependencies:
+45 silly install resolved      { chalk: '^1.1.1',
+45 silly install resolved        commander: '^2.9.0',
+45 silly install resolved        'cross-spawn': '^4.0.0',
+45 silly install resolved        envinfo: '3.4.2',
+45 silly install resolved        'fs-extra': '^1.0.0',
+45 silly install resolved        hyperquest: '^2.1.2',
+45 silly install resolved        semver: '^5.0.3',
+45 silly install resolved        'tar-pack': '^3.4.0',
+45 silly install resolved        tmp: '0.0.31',
+45 silly install resolved        'validate-npm-package-name': '^3.0.0' },
+45 silly install resolved     homepage: 'https://github.com/facebookincubator/create-react-app#readme',
+45 silly install resolved     _id: 'create-react-app@1.5.2',
+45 silly install resolved     _npmVersion: '5.6.0',
+45 silly install resolved     _nodeVersion: '8.6.0',
+45 silly install resolved     _npmUser: { name: 'gaearon', email: 'dan.abramov@gmail.com' },
+45 silly install resolved     dist:
+45 silly install resolved      { integrity: 'sha512-vnYIzsfTaqai2l07P9qtxhsZgHbzirC2omxKmf16wqvpXao9CNCDmpk+BCZRElih7HTn/mpO3soe8DTZV4DsgQ==',
+45 silly install resolved        shasum: '2639e5d2f88e8777977beb6a8d9cbc04cf70091e',
+45 silly install resolved        tarball: 'https://registry.npmjs.org/create-react-app/-/create-react-app-1.5.2.tgz',
+45 silly install resolved        fileCount: 4,
+45 silly install resolved        unpackedSize: 25574 },
+45 silly install resolved     maintainers: [ [Object], [Object], [Object], [Object], [Object] ],
+45 silly install resolved     directories: {},
+45 silly install resolved     _npmOperationalInternal:
+45 silly install resolved      { host: 's3://npm-registry-packages',
+45 silly install resolved        tmp: 'tmp/create-react-app_1.5.2_1518182464676_0.8542051396701542' },
+45 silly install resolved     _shasum: '2639e5d2f88e8777977beb6a8d9cbc04cf70091e',
+45 silly install resolved     _resolved: 'https://registry.npmjs.org/create-react-app/-/create-react-app-1.5.2.tgz',
+45 silly install resolved     _from: 'create-react-app@*' } ]
+46 info install create-react-app@1.5.2 into /usr/local/lib
+47 info installOne create-react-app@1.5.2
+48 verbose installOne of create-react-app to /usr/local/lib not in flight; installing
+49 verbose lock using /Users/Eoli/.npm/_locks/create-react-app-0e023debf1332c64.lock for /usr/local/lib/node_modules/create-react-app
+50 warn engine create-react-app@1.5.2: wanted: {"node":">=4"} (current: {"node":"0.12.4","npm":"2.10.1"})
+51 silly install write writing create-react-app 1.5.2 to /usr/local/lib/node_modules/create-react-app
+52 verbose unbuild lib/node_modules/create-react-app
+53 silly gentlyRm /usr/local/lib/node_modules/create-react-app is being purged from base /usr/local
+54 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/create-react-app
+55 verbose tar unpack /Users/Eoli/.npm/create-react-app/1.5.2/package.tgz
+56 verbose tar unpacking to /usr/local/lib/node_modules/create-react-app
+57 silly gentlyRm /usr/local/lib/node_modules/create-react-app is being purged
+58 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/create-react-app
+59 silly gunzTarPerm modes [ '755', '644' ]
+60 error tar.unpack untar error /Users/Eoli/.npm/create-react-app/1.5.2/package.tgz
+61 verbose unlock done using /Users/Eoli/.npm/_locks/create-react-app-0e023debf1332c64.lock for /usr/local/lib/node_modules/create-react-app
+62 verbose fstream_path /usr/local/lib/node_modules/create-react-app
+63 verbose fstream_type Directory
+64 verbose fstream_class DirWriter
+65 verbose stack Error: EACCES, mkdir '/usr/local/lib/node_modules/create-react-app'
+65 verbose stack     at Error (native)
+66 verbose fstream_stack /usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25
+66 verbose fstream_stack /usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53
+66 verbose fstream_stack FSReqWrap.oncomplete (fs.js:95:15)
+67 verbose cwd /Users/Eoli/Documents/2018_test
+68 error Darwin 13.4.0
+69 error argv "node" "/usr/local/bin/npm" "install" "-g" "create-react-app"
+70 error node v0.12.4
+71 error npm  v2.10.1
+72 error path /usr/local/lib/node_modules/create-react-app
+73 error code EACCES
+74 error errno -13
+75 error Error: EACCES, mkdir '/usr/local/lib/node_modules/create-react-app'
+75 error     at Error (native)
+75 error  { [Error: EACCES, mkdir '/usr/local/lib/node_modules/create-react-app']
+75 error   errno: -13,
+75 error   code: 'EACCES',
+75 error   path: '/usr/local/lib/node_modules/create-react-app',
+75 error   fstream_type: 'Directory',
+75 error   fstream_path: '/usr/local/lib/node_modules/create-react-app',
+75 error   fstream_class: 'DirWriter',
+75 error   fstream_stack:
+75 error    [ '/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25',
+75 error      '/usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53',
+75 error      'FSReqWrap.oncomplete (fs.js:95:15)' ] }
+76 error Please try running this command again as root/Administrator.
+77 verbose exit [ -13, true ]
+78 verbose unbuild lib/node_modules/create-react-app
+79 silly gentlyRm /usr/local/lib/node_modules/create-react-app is being purged from base /usr/local
+80 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/create-react-app
